@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Notice.md",
+                "file": "docs/必学工具/翻墙.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notice"
+              "title": "翻墙"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Notice.md",
+                "file": "docs/必学工具/翻墙.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Notice 的反向链接列表"
+              "title": "翻墙 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Notice.md",
+                "file": "docs/必学工具/翻墙.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Notice 的出链列表"
+              "title": "翻墙 的出链列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Notice.md",
+                "file": "docs/必学工具/翻墙.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Notice 的大纲"
+              "title": "翻墙 的大纲"
             }
           },
           {
@@ -194,9 +194,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b438f858ab6871ec",
+  "active": "92ea396f8bc26d37",
   "lastOpenFiles": [
-    "README.md",
-    "docs/Notice.md"
+    "docs/必学工具/翻墙.en.md",
+    "docs/必学工具/翻墙.md",
+    "docs/并行与分布式系统/CS149.md",
+    "docs/并行与分布式系统/CS149.en.md",
+    "docs/并行与分布式系统/MIT6.824.md",
+    "docs/深度生成模型/大语言模型/CMU11-711.en.md",
+    "docs/深度生成模型/大语言模型/CMU11-868.md",
+    "docs/深度生成模型/大语言模型/CMU11-667.md",
+    "docs/Notice.md",
+    "README.md"
   ]
 }
