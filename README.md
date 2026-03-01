@@ -6,8 +6,6 @@
 
 > _Everyone should enjoy CS if you have a good teacher to teach you a good course._
 
-<a href="https://trendshift.io/repositories/4643" target="_blank"><img src="https://trendshift.io/api/badge/repositories/4643" alt="PKUFlyingPig%2Fcs-self-learning | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
-
 [![Website](https://img.shields.io/badge/website-csdiy.wiki-blue)](https://csdiy.wiki)
 [![License](https://img.shields.io/github/license/PKUFlyingPig/cs-self-learning)](https://github.com/PKUFlyingPig/cs-self-learning/blob/master/LICENSE)
 [![Issues](https://img.shields.io/github/issues/PKUFlyingPig/cs-self-learning)](https://github.com/PKUFlyingPig/cs-self-learning/issues)
@@ -47,12 +45,7 @@
 
 ## ✨ 鸣谢
 
-特别感谢 @[AlfredThiel](https://github.com/AlfredThiel) 为项目制作了精美的 Logo。
-
-<!--  support by https://contrib.rocks -->
-<a href="https://github.com/PKUFlyingPig/cs-self-learning/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=PKUFlyingPig/cs-self-learning"/>
-</a>
+见原仓库
 
 ## 许可
 
