@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/必学工具/翻墙.md",
+                "file": "docs/必学工具/thesis.en.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "翻墙"
+              "title": "thesis.en"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/必学工具/翻墙.md",
+                "file": "docs/必学工具/thesis.en.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "翻墙 的反向链接列表"
+              "title": "thesis.en 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/必学工具/翻墙.md",
+                "file": "docs/必学工具/thesis.en.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "翻墙 的出链列表"
+              "title": "thesis.en 的出链列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/必学工具/翻墙.md",
+                "file": "docs/必学工具/thesis.en.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "翻墙 的大纲"
+              "title": "thesis.en 的大纲"
             }
           },
           {
@@ -196,8 +196,10 @@
   },
   "active": "92ea396f8bc26d37",
   "lastOpenFiles": [
-    "docs/必学工具/翻墙.en.md",
+    "docs/必学工具/thesis.md",
+    "docs/必学工具/thesis.en.md",
     "docs/必学工具/翻墙.md",
+    "docs/必学工具/翻墙.en.md",
     "docs/并行与分布式系统/CS149.md",
     "docs/并行与分布式系统/CS149.en.md",
     "docs/并行与分布式系统/MIT6.824.md",
