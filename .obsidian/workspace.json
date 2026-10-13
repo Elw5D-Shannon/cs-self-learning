@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/必学工具/thesis.en.md",
+                "file": "docs/好书推荐.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "thesis.en"
+              "title": "好书推荐"
             }
           }
         ]
@@ -196,15 +196,16 @@
   },
   "active": "92ea396f8bc26d37",
   "lastOpenFiles": [
-    "docs/必学工具/thesis.md",
+    "docs/深度生成模型/大语言模型/CMU11-868.md",
+    "docs/深度生成模型/大语言模型/CMU11-868.en.md",
     "docs/必学工具/thesis.en.md",
+    "docs/必学工具/thesis.md",
     "docs/必学工具/翻墙.md",
     "docs/必学工具/翻墙.en.md",
     "docs/并行与分布式系统/CS149.md",
     "docs/并行与分布式系统/CS149.en.md",
     "docs/并行与分布式系统/MIT6.824.md",
     "docs/深度生成模型/大语言模型/CMU11-711.en.md",
-    "docs/深度生成模型/大语言模型/CMU11-868.md",
     "docs/深度生成模型/大语言模型/CMU11-667.md",
     "docs/Notice.md",
     "README.md"
