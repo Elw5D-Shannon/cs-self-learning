@@ -212,13 +212,13 @@ nav:
       - "ETHz: Digital Design and Computer Architecture": "体系结构/DDCA.md"
       - "ETHz: Computer Architecture": "体系结构/CA.md"
   - 操作系统:
-      - "MIT 6.S081: Operating System Engineering": "操作系统/MIT6.S081.md"
+      - "MIT 6.1810 (6.S081): Operating System Engineering": "操作系统/MIT6.S081.md"
       - "UCB CS162: Operating Systems and Systems Programming": "操作系统/CS162.md"
       - "NJU OS: Operating System Design and Implementation": "操作系统/NJUOS.md"
       - "HIT OS: Operating System": "操作系统/HITOS.md"
   - 并行与分布式系统:
       - "CMU 15-418/Stanford CS149: Parallel Computing": "并行与分布式系统/CS149.md"
-      - "MIT 6.824: Distributed System": "并行与分布式系统/MIT6.824.md"
+      - "MIT 6.5840 (6.824): Distributed System": "并行与分布式系统/MIT6.824.md"
   - 计算机系统安全:
       - "UCB CS161: Computer Security": "系统安全/CS161.md"
       - "MIT 6.1600: Foundations of Computer Security": "系统安全/MIT6.1600.md"
@@ -272,6 +272,7 @@ nav:
       - "Stanford CS229: Machine Learning": "机器学习/CS229.md"
       - "UCB CS189: Introduction to Machine Learning": "机器学习/CS189.md"
   - 机器学习系统:
+      - "CMU 15-442/642: Machine Learning Systems": "机器学习系统/CMU15-442.md"
       - "智能计算系统": "机器学习系统/AICS.md"
       - "CMU 10-414/714: Deep Learning Systems": "机器学习系统/CMU10-414.md"
       - "MIT6.5940: TinyML and Efficient Deep Learning Computing": "机器学习系统/EML.md"
