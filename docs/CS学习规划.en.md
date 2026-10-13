@@ -229,7 +229,7 @@ Computer systems are a vast and profound topic. Before delving into a specific a
 
 Operating systems provide a set of elegant abstractions to virtualize various complex underlying hardware, providing rich functional support for all application software. Understanding the design principles and internal mechanisms of operating systems is greatly beneficial for a programmer who is not satisfied with just being a coder. Out of love for operating systems, I have taken many operating system courses in different colleges, each with its own focus and merits. You can choose based on your interests.
 
-[MIT 6.S081: Operating System Engineering](操作系统/MIT6.S081.md), offered by the famous PDOS lab at MIT, features 11 projects that modify an elegantly implemented Unix-like operating system xv6. This course made me realize that systems is not about reading PPTs; it's about writing tens of thousands of lines of code.
+[MIT 6.1810 (formerly 6.S081): Operating System Engineering](操作系统/MIT6.S081.md), offered by the famous PDOS lab at MIT, features 11 projects that modify an elegantly implemented Unix-like operating system xv6. This course made me realize that systems is not about reading PPTs; it's about writing tens of thousands of lines of code.
 
 [UCB CS162: Operating System](操作系统/CS162.md), UC Berkeley’s operating system course, uses the same Project as Stanford — an educational operating system, Pintos. As the teaching assistant for Peking University’s 2022 and 2023 Spring Semester Operating Systems Course, I introduced and improved this Project. The course resources are fully open-sourced, with details on [the course website](https://pku-os.github.io).
 
@@ -247,9 +247,9 @@ In recent years, the most common phrase heard in CS lectures is "Moore's Law is 
 
 #### Distributed Systems
 
-[MIT 6.824: Distributed Systems](并行与分布式系统/MIT6.824.md), like MIT 6.S081, is offered by MIT’s renowned PDOS (Parallel and Distributed Operating Systems) lab. The course is taught by Professor Robert Morris, who was once a legendary hacker—famously known for creating the first computer worm, the Morris Worm.
+[MIT 6.5840 (formerly 6.824): Distributed Systems](并行与分布式系统/MIT6.824.md), like MIT 6.S081, is offered by MIT’s renowned PDOS (Parallel and Distributed Operating Systems) lab. The course is taught by Professor Robert Morris, who was once a legendary hacker—famously known for creating the first computer worm, the Morris Worm.
 
-Each lecture focuses on an in-depth reading of a classic paper in the field of distributed systems, through which the course conveys essential principles and key techniques for designing and implementing distributed systems. The course is also famous for its challenging projects: over the course of four progressively difficult programming assignments, students build a key-value store framework based on the Raft consensus algorithm. These projects offer a firsthand experience of the randomness and complexity brought by concurrency and distribution—often felt most acutely during painful debugging sessions.
+Each lecture focuses on an in-depth reading of a classic paper in the field of distributed systems, through which the course conveys essential principles and key techniques for designing and implementing distributed systems. The course is also famous for its challenging projects: over the course of five progressively difficult programming assignments, students build a key-value store framework based on the Raft consensus algorithm. These projects offer a firsthand experience of the randomness and complexity brought by concurrency and distribution—often felt most acutely during painful debugging sessions.
 
 ### System Security
 
